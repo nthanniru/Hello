@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Sample Hello world application..
+<h1>Sample Hello world application..</h1>
 </body>
 </html>
