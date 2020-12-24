@@ -10,6 +10,6 @@ h1 {text-align: center;}
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Sample Hello world application..123</h1>
+<h1>Hello world application</h1>
 </body>
 </html>
